@@ -1,4 +1,5 @@
 # Introduction
+![locations-map](https://github.com/JaviSandoval94/python-api-challenge/blob/master/output_images/map.png)
 Ever wondered how to plan your ideal vacation? This project will help you make plans to visit your ideal destination based on data retrieved from API calls using Python!
 The project consists of two Jupyter Notebooks called `WeatherPy.ipynb` and `VacationPy.ipynb`. On these files, you will find the code to:
 1. Use the OpenWeather API to retrieve weather data from different locations around the world and filter them according to your preferences of temperature, cloudiness and wind.
